@@ -1,0 +1,5 @@
+Welcome to C# with Selenium
+Selenium is open Source
+Selenium is used to automate web based applications.
+C# is a prograaming language
+Selenium supports C#

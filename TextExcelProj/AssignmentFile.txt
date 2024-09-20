@@ -1,0 +1,3 @@
+Welcome to Java with Selenium
+Selenium is open Source
+Selenium is used to automate web based applications.
